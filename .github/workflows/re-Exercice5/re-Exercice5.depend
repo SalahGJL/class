@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573752625 source:c:\users\zbook\desktop\c\devlopmet_tools\re-exercice5\mesfonction.c
+	<stdio.h>
+	<stdlib.h>
+
+1573752480 source:c:\users\zbook\desktop\c\devlopmet_tools\re-exercice5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MesFonction.h"
+
+1573752625 c:\users\zbook\desktop\c\devlopmet_tools\re-exercice5\mesfonction.h
+
